@@ -1,5 +1,4 @@
-# Census
-Census and Census add smoothing filtering model about a stereo matching algorithm based on visual sensitive information
+# Stereo-Matching
 * ./Figure1.png: This figure shows the comparison of different test results.
 * ./Figure2.png: This figure shows the visual sensitive area retention.
 * ./Figure3.png: This figure shows the disparity image before and after optimization.
