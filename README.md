@@ -5,7 +5,7 @@
 98% codes are written in C++, 2% codes are written in C. Codes are written in Visual Studio 2013. The environment of OpenCv is 2.4.9. 
 
 ## Data
-* `./Part 1-4 test data set and disparity map/`: This folder contains test data and disparity map.
+* `./Part 1-4 test data set and disparity map/`: This folder contains test data and disparity map which are standard images from Middlebury official test datasets.
 
 ## Figure
 * `./Figure1.png`: This figure shows the comparison of different test results.
