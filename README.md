@@ -2,7 +2,7 @@
 * `./model/`: This folder contains Census model code.
 * `./model add smoothing filtering/`: This folder contains the model code which add a soothing filter based on the Cencus model.
 
-## data
+## Data
 * `./Part 1-4 test data set and disparity map/`: This folder contains test data and disparity map.
 
 ## Figure
