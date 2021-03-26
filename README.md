@@ -14,7 +14,6 @@
 * `./Figure4.png`: This figure shows the other processed images of propose algorithm. It shows the results that experimented with other images in the data set. From this figure, we can find that the algorithm proposed in this paper has good processing effect for most binocular vision images.
 
 ## Table
-## Table
 * `./Table1.png`: This table shows the error matching rate obtained by various algorithms. It shows that error matching rate of the proposed algorithm is lower than that of the same kind of algorithm, and the overall matching effect is better.
 * `./Table2.png`: This table shows the mismatch rate under different Gaussian noise concentrations. It shows that show that when the noise concentration increases, the change degree of the error matching rate of this algorithm is lower, and the sensitivity to noise is lower.
 * `./Table3.png`: This table shows the comparison results of different algorithms. From this table, we can see the difference between NOCC and all. NOCC is the non occluded area mentioned above, and all is the matching of all areas of the image, including the blind area of parallax. The data of mismatch rate in the table objectively proves the effectiveness of this algorithm, which has more advantages than the same kind of classical algorithms.
