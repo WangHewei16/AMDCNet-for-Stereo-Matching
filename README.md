@@ -2,7 +2,7 @@
 * `./model/`: This folder contains Census model code.
 * `./model add smoothing filtering/`: This folder contains the model code which add a soothing filter based on the Cencus model.
 
-98% codes are written in C++, 2% codes are written in C. Codes are written in Visual Studio 2013. The environment of OpenCv is 2.4.9. 
+98% codes are written in C++, 2% codes are written in C. Codes are written in Visual Studio 2013. The environment of OpenCV is 2.4.9. 
 
 ## Data
 * `./Part 1-4 test data set and disparity map/`: This folder contains test data and disparity map which are standard images from Middlebury official test datasets.
