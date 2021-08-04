@@ -1,4 +1,4 @@
-# Research on Stereo Matching Based on Convolution Aggregation Network and Visual Sensitivity
+# Stereo Matching Based on Convolution Aggregation Network and Visual Sensitivity
 
 ### Code
 * `./model/`: This folder contains Census model code.
