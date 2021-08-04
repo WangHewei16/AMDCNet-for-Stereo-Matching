@@ -29,4 +29,4 @@
 * `Table3.png`: This table shows the comparison results of different algorithms. From this table, we can see the difference between NOCC and all. NOCC is the non occluded area mentioned above, and all is the matching of all areas of the image, including the blind area of parallax. The data of mismatch rate in the table objectively proves the effectiveness of this algorithm, which has more advantages than the same kind of classical algorithms.
 * `Table4.png`: This table shows the comparison with different algorithms before and after optimization in non occluded area. The algoirthm in literature [24] is Multi-task Attention Stereo Network (MASNet), the algoirthm in literature [25] is Pyramid Stereo Matching Network, the algoirthm in literature [26] is Richer Convolutional Features Network.
 
-<div align=center><img src="https://github.com/WangHewei16/Stereo-Matching-Algorithm/blob/main/Table4.png?raw=true" width="500"/></div>
+<div align=center><img src="https://github.com/WangHewei16/Stereo-Matching-Algorithm/blob/main/Table4.png?raw=true" width="550"/></div>
