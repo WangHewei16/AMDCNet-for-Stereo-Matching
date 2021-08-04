@@ -12,7 +12,7 @@
 ### Figure
 * `Figure1.png`: This figure shows the comparison of different test results. The first column is the perspective image in the original image of the experimental data set, the second column is the ideal parallax image for reference, the third and fourth columns are the result images obtained by the classical algorithm census, and the fifth and sixth columns are stereo matching algorithms based on visual sensitive information. Among them, the red marks in the fourth and sixth columns indicate the mismatching areas of the marks when comparing the two result maps with the ideal disparity map. Through the display of subjective images, we can clearly see that the proposed algorithm can effectively calculate and generate the disparity of the original image, and the matching effect is better than that of the classical algorithm. 
 
-<div align=center><img src="https://user-images.githubusercontent.com/80974728/113465074-e9326800-9463-11eb-9931-2a99fb8c48ec.png"/></div>
+<div align=center><img src="https://github.com/WangHewei16/Stereo-Matching-Algorithm/blob/main/Figure1.png?raw=true"/></div>
 
 
 * `Figure2.png`: This figure shows the visual sensitive area retention. It shows that this algorithm has been improved and preserved in many visual sensitive areas, such as 'peak', 'lamp' and 'table'.
