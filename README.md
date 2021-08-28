@@ -1,4 +1,4 @@
-# Stereo Matching Based on Convolution Aggregation Network and Visual Sensitivity
+# An Attentional Multi-Directional Convolution Network for Stereo Matching
 
 ### Code
 * `./model/`: This folder contains Census model code.
