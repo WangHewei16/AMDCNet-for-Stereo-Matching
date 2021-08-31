@@ -12,6 +12,7 @@
 ### Model
 * `./AMDCNet-architecture diagram.png/`: It shows the architecture overview of proposed AMDCNet. We perform three operations on the image: (a) Perform convolution template to get the visual sensitivity factor; (b) Calculate the initial cost of the image and construct the multi-directional aggregation template. (c) Detect left and right consistency to optimize.
 <div align=center><img src="https://github.com/WangHewei16/Stereo-Matching-Algorithm/blob/main/AMDCNet-architecture diagram.png?raw=true" width="1000"/></div>
+
 In the sensitive points extraction stage, we propose a method to detects the edge points, contour points and other visual sensitive areas in the image, analyze the texture distribution difference between them and smooth areas, and guide the judgment weight of degree of freedom extension. In the multi-directional template matching stage, we first construct a multi-directional extension template, then, extended pixel length is guided according to the visual sensitivity, finally, we complete the whole image processing. In the optimization stage, we propose left and right consistency detection method to further reduce the error matching rate.
 
 ### Figure
