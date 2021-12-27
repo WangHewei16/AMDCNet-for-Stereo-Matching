@@ -10,6 +10,9 @@
 
 ### Data
 * `./Part 1-4 test data set and disparity map/`: This folder contains test data and disparity map which are standard images from Middlebury official test datasets.
+* `./Training sets/`: This folder contains data used for training.
+* `./Validation sets/`: This folder contains data used for validation.
+* `./Testing sets/`: This folder contains data used for testing.
 
 ### Model
 * `AMDCNet-architecture diagram.png`: It shows the architecture overview of proposed AMDCNet. We perform three operations on the image: (a) Perform convolution template to get the visual sensitivity factor; (b) Calculate the initial cost of the image and construct the multi-directional aggregation template. (c) Detect left and right consistency to optimize.
