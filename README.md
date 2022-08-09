@@ -1,4 +1,4 @@
-# An Attentional Multi-Directional Convolution Network for Stereo Matching
+# AMDCNet: An Attentional Multi-Directional Convolution Network for Stereo Matching
 
 ### Code
 * `./AMDCNet-Figure Code/`: This folder contains Census model code which can produce the `Figure1.png` after running. It should run in vs2012 + pcl1.8.0 + boost environment.
